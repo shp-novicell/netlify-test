@@ -1,4 +1,5 @@
 ---
-title: hej hej
+title: Testside title
+text: Lorem ipsum
 ---
 
